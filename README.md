@@ -1,10 +1,13 @@
 # Readme Template
+put some badges
 
-A basic readme template for personal projects
+> A basic readme template for personal projects
 
 The project initial paragraph
 
-List some features:
+Here are some nice features:
+    - Feature 1
+    - Feature 2
 
 Add a nice screenshot
 
@@ -17,7 +20,9 @@ Add a nice screenshot
 To run {REPOSITORY}, {PREREQUISITE} is required.
 The easiest way to install {PREREQUISITE} is by running:
 
-```npm install prerequisite```
+```bash
+npm install prerequisite
+```
 
 For other install options, please refer to [prerequisite](https://www.example.com) installation manual.
 
@@ -56,6 +61,10 @@ Checks if the best practices and the right coding style has been used.
 ## Deployment
 
 Add additional notes to deploy this on a live system
+
+## Future Work
+
+List some functionality that you are working on.
 
 ## Acknowledgments
   - **Billie Thompson** - *Provided README Template* -
